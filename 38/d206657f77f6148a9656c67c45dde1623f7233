@@ -1,0 +1,23 @@
+cube-resources/cube-infra-daytona/pyproject.toml
+  s_12e7ac6768117d::t_2f5f61a81b1a79 14
+pyproject.toml
+  s_12e7ac6768117d::t_1b804215059e56 45
+uv.lock
+  s_12e7ac6768117d::t_5cb5930ece27bd 705,812
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "38d206657f77f6148a9656c67c45dde1623f7233",
+  "prompts": {},
+  "sessions": {
+    "s_12e7ac6768117d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e1a01737bffeCtpA0lr2JFtXDA",
+        "model": "unknown"
+      },
+      "human_author": "MDzaja <mirkodzaja0@gmail.com>"
+    }
+  }
+}
